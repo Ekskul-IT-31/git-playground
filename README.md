@@ -2,6 +2,8 @@
 
 - git add
 - git commit
+- git branch
+- git checkout
 
 ## Kolaborasi
 
